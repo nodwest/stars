@@ -1,0 +1,24 @@
+.PersonDetalis {
+    display: flex;
+    margin-top: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.persona_desc ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.persona_desc ul li {
+    padding: 5px 0px;
+    border-top: solid 0.1px #f2f2f299;
+}
+.persona{
+    margin-right: 50px;
+}
+.persona img {
+    border-radius: 10px;
+  
+}
